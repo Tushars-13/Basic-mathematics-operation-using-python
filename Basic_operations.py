@@ -295,9 +295,6 @@ def switch_statement(choice):
             print()
             print("----------------------------------")
             
-            
-
-
         case _:
             print("Invalid choice, Enter your choice again.")
 print()
@@ -319,9 +316,6 @@ print("13. Calculate the power of a number.")
 print("14. Convert temperature between Celsius, Fahrenheit, and Kelvin.")
 print("15. Solve a quadratic equation.")
 print("99. EXIT")
-
-
-
 
 while True:
     print()
